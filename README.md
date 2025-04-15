@@ -30,4 +30,3 @@ A função `trocar_modo()` permite alternar entre os modos **Dark** e **Light**.
 ### 5. **Execução**
 `root.mainloop()` inicia a interface gráfica e mantém a janela aberta até o usuário fechá-la.
 
-Esse código é útil para quem precisa converter unidades de armazenamento com rapidez e uma interface amigável. Quer que eu ajude a melhorar alguma parte? 🚀
